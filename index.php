@@ -81,9 +81,9 @@ $crud = new crud();
 // $table = "users";
 // $data = array(
 // 	':id' => 925,
-// 	':name' => 'Anika',
+// 	':name' => 'jondes',
 // 	':age' => 24,
-// 	':email' => 'anika@gmail.com'
+// 	':email' => 'anik@gmail.com'
 // 	);
 // $crud->create($data,$table);
 
@@ -98,9 +98,9 @@ $crud = new crud();
 // $table = "users";
 // $id = 100; //where id = $id
 // $data = array(
-// 	':name' => 'Anika',
+// 	':name' => 'jondes',
 // 	':age' => 24,
-// 	':email' => 'anika@gmail.com'
+// 	':email' => 'anik@gmail.com'
 // 	);
 // $crud->update($data,$table,$id);
 
